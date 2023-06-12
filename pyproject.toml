@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "artwall"
+version = "1.0.0"
+description = ""
+authors = ["celsius narhwal <hello@celsiusnarhwal.dev>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs = "^1.4"
+path = "^16.6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
