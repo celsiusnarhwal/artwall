@@ -1,6 +1,7 @@
 from typing import Optional
 
-from mkdocs.config.base import MkDocsConfig, Config
+from mkdocs.config.base import Config
+from mkdocs.config.defaults import MkDocsConfig
 from mkdocs.plugins import BasePlugin
 
 
